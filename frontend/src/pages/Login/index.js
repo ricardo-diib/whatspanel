@@ -146,7 +146,7 @@ const Login = () => {
 			<span className={classes.rodape}>Experimente nossa versão mobile</span>
 			</div>
 			<br/>
-			<span className={classes.powered}>@Powered by SolidFusion Corp(2023).</span>
+			<span className={classes.powered}>Control-E Soluções | <a href="https://control-e.tv.br" target="_blank">www.control-e.tv.br</a></span>
 			<Box mt={8}>{/* <Copyright /> */}</Box>
 		</Container>
 		</div>
