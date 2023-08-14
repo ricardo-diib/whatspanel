@@ -143,7 +143,7 @@ const Login = () => {
 						</Grid>
 					</Grid> 
 				</form>
-			<span className={classes.rodape}>Experimente nossa versão mobile</span>
+			<span className={classes.rodape}></span>
 			</div>
 			<br/>
 			<span className={classes.powered}>Control-E Soluções | <a href="https://control-e.tv.br" target="_blank">www.control-e.tv.br</a></span>
